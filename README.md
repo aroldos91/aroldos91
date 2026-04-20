@@ -81,8 +81,6 @@ Sistema 100% local (TypeScript + WebAssembly) que se integra mediante el **Model
 
 ---
 
-## 📊 GitHub Analytics (Real-time & Private)
-
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
